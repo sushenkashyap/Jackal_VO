@@ -1,7 +1,7 @@
 # Jackal_VO
 Jackal Gazebo Simulator for Visual Inertial Odometry
 
-Based on Husky robot by Clearpath Robotics: https://github.com/jackal/
+Based on Jackal robot by Clearpath Robotics: https://github.com/jackal/
 
 To spawn Jackal:
 ```
